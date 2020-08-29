@@ -3323,7 +3323,7 @@ define("./service-worker.js",['./workbox-5e0a84ee'], function (workbox) { 'use s
     "revision": "81174743eeaa5dfa5a6f2c8a6d1681d1"
   }, {
     "url": "index.html",
-    "revision": "5c1626834a9509bfbda768e08395153e"
+    "revision": "8b4abed2dff392d69436c76fa3c6e3ea"
   }], {});
 
 });
